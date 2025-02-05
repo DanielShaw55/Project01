@@ -1,3 +1,7 @@
+//Daniel Shaw
+//2.4.25
+//Project 01
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
